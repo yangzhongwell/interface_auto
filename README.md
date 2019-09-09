@@ -1,2 +1,0 @@
-# QxyIdeaProject
-java基础
